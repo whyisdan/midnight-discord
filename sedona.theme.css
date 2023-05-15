@@ -24,7 +24,7 @@
   --cyan-text-shadow: 1;
   --cyan-font: Nunito Sans; /* Custom font | Default: 'Montserrat' */
   --window-margin: 54;
-  --window-border-radius: 8px;
+  --window-border-radius: 3px;
   --cyan-background-primary: hsla(var(--cyan-background-hue) var(--cyan-tint-visibility) var(--cyan-background-lightness) / 40%);
 }
 
