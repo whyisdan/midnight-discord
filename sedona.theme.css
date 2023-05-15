@@ -16,14 +16,14 @@
 
 :root {
   --cyan-background-img: url('https://i.imgur.com/uwOxYiI.jpg');
-  --cyan-blur-radius: 2px;
+  --cyan-blur-radius: 6px;
   --cyan-accent-color: #33413F;
   --cyan-background-hue: 248;
   --cyan-elevation-shadow: 0 0 10px 0 rgb(0 0 0 / 60%);
   --cyan-tint-visibility: 8%;
   --cyan-text-shadow: 1;
   --cyan-font: Nunito Sans; /* Custom font | Default: 'Montserrat' */
-  --window-margin: 5;
+  --window-margin: 54;
   --window-border-radius: 8px;
   --cyan-background-primary: hsla(var(--cyan-background-hue) var(--cyan-tint-visibility) var(--cyan-background-lightness) / 40%);
 }
