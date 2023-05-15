@@ -1,0 +1,33 @@
+/**
+ * @name sedona
+ * @author DaBluLite
+ * @version 5.0.0
+ * @description Sleek and clean, with custom background support
+ * @source https://dablulite.github.io/Cyan/Cyan.theme.css
+ * @invite ZfPH6SDkMW
+ * @website https://github.com/DaBluLite/Cyan
+ * @authorId 582170007505731594
+ * @BDEditor Cyan
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@100;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap');
+@import url('https://dablulite.github.io/Cyan/import.css');
+
+:root {
+  --cyan-background-img: url('https://i.imgur.com/uwOxYiI.jpg');
+  --cyan-blur-radius: 2px;
+  --cyan-accent-color: #33413F;
+  --cyan-background-hue: 248;
+  --cyan-elevation-shadow: 0 0 10px 0 rgb(0 0 0 / 60%);
+  --cyan-tint-visibility: 8%;
+  --cyan-text-shadow: 1;
+  --cyan-font: Nunito Sans; /* Custom font | Default: 'Montserrat' */
+  --window-margin: 5;
+  --window-border-radius: 8px;
+  --cyan-background-primary: hsla(var(--cyan-background-hue) var(--cyan-tint-visibility) var(--cyan-background-lightness) / 40%);
+}
+
+/* Any custom CSS below here */
+
+
