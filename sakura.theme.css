@@ -1,0 +1,68 @@
+/**
+ * @name sakura
+ * @author Disease#5663
+ * @version 1.0.11
+ * @description macOS with barely any customization.
+ * @source https://github.com/maenDisease/Solana
+ * @invite BShu37e4jg
+ * @website https://maendisease.github.io/
+ * @authorId 678469587444170762
+ * @BDEditor Solana
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100;300;400;500;700&display=swap');
+@import url('https://maendisease.github.io/Solana/Solana.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/addon/mac-titlebar.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css');
+
+:root {
+  --accent-hue: 281;
+  --accent-saturation: 41%;
+  --accent-brightness: 75%;
+  --background-accent-hue: 214;
+  --background-accent-saturation: 20%;
+  --background-accent-brightness: 51%;
+  --background-image: url('https://i.imgur.com/aHvUZXo.jpg'); /* url(https://site.com/foobar.png) | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image-position: center;
+  --background-image-size: cover;
+  --background-image-blur: 0px;
+  --background-overlay-opacity: 0%;
+  --background-overlay-color-lightness: 1;
+  --background-hue-shift-strength: 100%;
+  --window-background-image: initial;
+  --window-background-image-position: center;
+  --window-background-image-size: cover;
+  --window-background-image-attachment: fixed;
+  --window-opacity: 28%;
+  --window-blur: 4;
+  --window-friends-blur: 0;
+  --window-margin: 17;
+  --window-margin-left: 27;
+  --window-border-radius: 24px;
+  --window-background-lightness: -1;
+  --window-accent-tint-strength: 9%;
+  --chat-bubble: 1;
+  --text-link-hue: 219;
+  --chat-text-brightness: 1;
+  --home-icon: initial;
+  --favorites-icon: initial;
+  --dock-blur: 0; /* Blur intensity of the dock. */
+  --dock-border-radius: 0.18;
+  --sidebar-width: 270px;
+  --members-width: 247px;
+  --sidebar-text-brightness: 1;
+  --background-floating-blur: 26px;
+  --floating-background-lightness: 0.04;
+  --background-floating-opacity: 1;
+  --enable-floating-transparency: 1;
+  --custom-font-display: Barlow;
+  --custom-font-regular: Barlow;
+  --custom-font-primary: Barlow;
+  --custom-font-code: "";
+  --enable-blur: 1;
+}
+
+/* Any custom CSS below here */
+
+
